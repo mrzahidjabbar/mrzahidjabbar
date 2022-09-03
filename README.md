@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, Vue.js, React.js,Laravel**
 
-- 📫 How to reach me **mrzahidjabbar@gmailc.om**
+- 📫 Reach me at **mrzahidjabbar@gmailc.om**
 
 - ⚡ Fun fact **Love reading books.**
 
