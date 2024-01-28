@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [www.zahidjabbar.com](www.zahidjabbar.com)
 
-- 💬 Ask me about **JavaScript, Vue.js, React.js,Laravel**
+- 💬 Ask me about **JavaScript, Vue.js, React.js, Laravel**
 
 - 📫 Reach me at **mrzahidjabbar@gmailc.om**
 
